@@ -1,0 +1,13 @@
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.exe
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.deps.json
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.runtimeconfig.json
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.runtimeconfig.dev.json
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.dll
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\bin\Debug\netcoreapp3.1\ListaPOOex9.pdb
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.csprojAssemblyReference.cache
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.AssemblyInfoInputs.cache
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.AssemblyInfo.cs
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.csproj.CoreCompileInputs.cache
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.dll
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.pdb
+C:\Users\Waldir\source\repos\ListaPOOex9\ListaPOOex9\obj\Debug\netcoreapp3.1\ListaPOOex9.genruntimeconfig.cache
